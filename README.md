@@ -22,17 +22,17 @@
 
 ### Technologies & Frameworks
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://github.com/darth-raijin)
-[![Go Fiber](https://img.shields.io/badge/Go%20Fiber-black?style=for-the-badge&logo=go)](https://github.com/wervlad)
-[![Go Gin](https://img.shields.io/badge/Go%20Gin-black?style=for-the-badge&logo=go)](https://hub.docker.com/u/wervlad)
-[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://hub.docker.com/u/wervlad)
-[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/wervlad)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/wervlad)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Go Fiber](https://img.shields.io/badge/Go%20Fiber-black?style=for-the-badge&logo=go)](https://github.com/darth-raijin)
+[![Go Gin](https://img.shields.io/badge/Go%20Gin-black?style=for-the-badge&logo=go)](https://github.com/darth-raijin)
+[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://github.com/darth-raijin)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/darth-raijin)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/darth-raijin)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/darth-raijin)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/darth-raijin)
 
 
 ### OS
-[![Fedora KDE](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
+[![Fedora KDE](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/darth-raijin)
 
 <p align="center">
   <a href="https://github.com/wervlad">
