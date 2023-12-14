@@ -29,6 +29,7 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/darth-raijin)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/darth-raijin)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/darth-raijin)
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)](https://github.com/darth-raijin)
 
 
 ### OS
