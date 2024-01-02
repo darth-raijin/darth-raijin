@@ -3,7 +3,6 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Darth Macow.<br>
         Developing APIs in Go and deploying with Kubernetes.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/mohamedmacow/">
