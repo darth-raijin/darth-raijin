@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/mohamedmacow/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://www.raijin.dk/blog">
+        <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="LinkedIn">
+    </a>
 </p>
 
 ### Languages
