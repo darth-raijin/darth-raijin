@@ -48,5 +48,5 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darth-raijin&hide=css,html,sass,sourcepawn,javascript,c,d,kotlin,java,shell,scss,php,batchfile&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/darth-raijin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darth-raijin&hide=css,html,sass,sourcepawn,javascript,c,d,kotlin,shell,scss,php,batchfile&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/darth-raijin)
 
