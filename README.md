@@ -19,7 +19,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/darth-raijin)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/darth-raijin)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/darth-raijin)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/darth-raijin)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/darth-raijin)
 
 
 ### Technologies & Frameworks
