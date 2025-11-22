@@ -1,18 +1,3 @@
-<h1 align="center">Hi, guys! 👋</h1>
-
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        Developing backend systems and orchestrating infrastructure.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/mohamedmacow/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.raijin.dk/blog">
-        <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="LinkedIn">
-    </a>
-</p>
-
 ### Languages
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/darth-raijin)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/darth-raijin)
